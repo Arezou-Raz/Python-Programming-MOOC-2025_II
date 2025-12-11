@@ -1,2 +1,0 @@
-name: Advanced Programming Course
-study credits: 5
